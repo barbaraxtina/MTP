@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main ()
-{
+int main (){
 	unsigned int v = 0xFACA8421; 
 	unsigned char* p;
 	int i = 0;
