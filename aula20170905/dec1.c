@@ -14,4 +14,5 @@ int main ()
 		printf ("\n mult. 5");
 		if (n%7==0)
 		printf ("\n mult. 7");
+		return 0;
 }

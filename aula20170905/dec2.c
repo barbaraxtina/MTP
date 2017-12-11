@@ -13,7 +13,7 @@ int main (void)
     printf ("%i\n %i\n %i\n", n, m, s);
     if (s%2==0)
    		printf ("par");
-    else 
+    else
  		printf ("impar");
- 	
+ 		return 0;
 }

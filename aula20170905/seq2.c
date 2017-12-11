@@ -10,4 +10,5 @@ int main ()
 	scanf ("%f", &h);
 	a= b*h;
 	printf ("\n\n %.3f", a);
+	return 0;
 }

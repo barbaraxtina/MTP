@@ -9,6 +9,7 @@ int main ()
 	{
 		m = (2*A+2*B+2*C+3*D+5*E)/14;
 		printf ("\n\n %.3f", m);
+		return 0;
 	}
 }
 

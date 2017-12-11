@@ -14,7 +14,7 @@ void impar (){
             printf (" %i  ", i);
     }
 }
-void main() {
+int main() {
     int opcao;
     printf ("opcao 1: par \nopcao 2: impar \n");
     scanf ("%i", &opcao);

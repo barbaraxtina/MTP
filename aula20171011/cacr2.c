@@ -19,7 +19,7 @@ void raizes (float a, float b, float c, float delt) {
     if (delt < 0)
         printf("NAN, NAN");
 }
-void main(){
+int main(){
     float a, b, c, delt;
     printf("digite os coeficientes da equacao: ");
     scanf("%f %f %f", &a, &b, &c);

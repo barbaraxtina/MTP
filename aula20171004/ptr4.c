@@ -14,4 +14,5 @@ int main (){
 	soma = n1 + n2;
 	p = &soma;
 	printf ("O resultado da soma dos numeros e': 0x%p, %f \n", p, soma);
+	return 0;
 }
